@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/tom/Documents/GitHub/OneSignalTest/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/tom/Documents/GitHub/OneSignalTest/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Folly/folly/Optional.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Folly/folly/Portability.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Folly/folly/CPortability.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Folly/folly/Traits.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Folly/folly/Utility.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/tom/Documents/GitHub/OneSignalTest/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
