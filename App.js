@@ -7,7 +7,7 @@ export default class App extends Component {
 constructor(properties) {
     super(properties);
     console.log('OneSignal.init')
-    OneSignal.init("YOUR_ONESIGNAL_APPID");
+    OneSignal.init("2b3dce47-d9f2-4f42-a388-3d66b049b433");
 
     OneSignal.addEventListener('received', this.onReceived);
     OneSignal.addEventListener('opened', this.onOpened);
