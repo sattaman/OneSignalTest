@@ -7,12 +7,13 @@ export default class App extends Component {
 constructor(properties) {
     super(properties);
     console.log('OneSignal.init')
-    OneSignal.init("2b3dce47-d9f2-4f42-a388-3d66b049b433");
+    OneSignal.init("2b3dce47-d9f2-4f42-a388-3d66b049b433", {kOSSettingsKeyAutoPrompt : true});
+
 
     OneSignal.addEventListener('received', this.onReceived);
     OneSignal.addEventListener('opened', this.onOpened);
     OneSignal.addEventListener('ids', this.onIds);
-  }
+  } 
 
   componentWillUnmount() {
     OneSignal.removeEventListener('received', this.onReceived);
