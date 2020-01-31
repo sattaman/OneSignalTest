@@ -4,45 +4,375 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon20x20@2x.png</key>
+		<data>
+		zTI6jgOJudgVp/8GXicTaPOqHuI=
+		</data>
+		<key>AppIcon20x20@2x~ipad.png</key>
+		<data>
+		zTI6jgOJudgVp/8GXicTaPOqHuI=
+		</data>
+		<key>AppIcon20x20@3x.png</key>
+		<data>
+		fkl/4HGiIV/ULNKFZJ/QLVzrtXg=
+		</data>
+		<key>AppIcon20x20~ipad.png</key>
+		<data>
+		mhqhw1Ldvu4h2K4myqeV2Q3vlYw=
+		</data>
+		<key>AppIcon29x29.png</key>
+		<data>
+		IQIFrFtGvCzM762JfW3VoFn0fxs=
+		</data>
+		<key>AppIcon29x29@2x.png</key>
+		<data>
+		Tdz6/toMPa6Z+pIaojzt2RYqIqM=
+		</data>
+		<key>AppIcon29x29@2x~ipad.png</key>
+		<data>
+		Tdz6/toMPa6Z+pIaojzt2RYqIqM=
+		</data>
+		<key>AppIcon29x29@3x.png</key>
+		<data>
+		RZBwmk7aG+Ks2pVRqYBuZia4JDs=
+		</data>
+		<key>AppIcon29x29~ipad.png</key>
+		<data>
+		IQIFrFtGvCzM762JfW3VoFn0fxs=
+		</data>
+		<key>AppIcon40x40@2x.png</key>
+		<data>
+		bfqr09kXFSiOqEDEI+oFZT4/z7I=
+		</data>
+		<key>AppIcon40x40@2x~ipad.png</key>
+		<data>
+		bfqr09kXFSiOqEDEI+oFZT4/z7I=
+		</data>
+		<key>AppIcon40x40@3x.png</key>
+		<data>
+		nf5JY6gwvIIP33YMbAZpnS4+7FA=
+		</data>
+		<key>AppIcon40x40~ipad.png</key>
+		<data>
+		zTI6jgOJudgVp/8GXicTaPOqHuI=
+		</data>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		nf5JY6gwvIIP33YMbAZpnS4+7FA=
+		</data>
+		<key>AppIcon60x60@3x.png</key>
+		<data>
+		eU2G3QFrvxznATmscqFZBJPzN7k=
+		</data>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<data>
+		7KCpFNCYxw9gP/uSVV70t54vhDQ=
+		</data>
+		<key>AppIcon76x76~ipad.png</key>
+		<data>
+		ntiEOFwq91sc9DqOAky5kyrpsRo=
+		</data>
+		<key>AppIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		qgH8qXUgtW4PekX2hdM/i/T3XEs=
+		</data>
+		<key>Assets.car</key>
+		<data>
+		Kryqcno+idVn6z7NGN+ydUFmt24=
+		</data>
 		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<data>
-		9BAEIL58OyTY1A+EDny2vW6Z+kc=
+		YMTClyWj1VrUN7fU2WSr0lgj7e8=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<data>
-		m1fzfzifb9gz4lxB5fmmjhNjwNc=
+		s5I3UpcyhcBEb8xv8/uyNUZKx1Q=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+Hxnr/+yO8PeIN4tU2PE3Fsf5iQ=
+		mpJR7/G3cKcOFT6o7U1irWFkKEM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>PlugIns/OneSignalNotificationServiceExtension.appex/Info.plist</key>
+		<data>
+		kw5NGfAX9HULhuNlztdABb1VOEc=
+		</data>
+		<key>PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension</key>
+		<data>
+		JesvVZ/xDAKj0bsfHXZStI02Q5E=
+		</data>
+		<key>PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources</key>
+		<data>
+		9U6AfawxDsgDXMOGoeWWFSWg7vw=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon20x20@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zTI6jgOJudgVp/8GXicTaPOqHuI=
+			</data>
+			<key>hash2</key>
+			<data>
+			OQD2sIkam36Eg3Uc5yn7Tc5U7mACfGZXNi/Y4MSGl5c=
+			</data>
+		</dict>
+		<key>AppIcon20x20@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zTI6jgOJudgVp/8GXicTaPOqHuI=
+			</data>
+			<key>hash2</key>
+			<data>
+			OQD2sIkam36Eg3Uc5yn7Tc5U7mACfGZXNi/Y4MSGl5c=
+			</data>
+		</dict>
+		<key>AppIcon20x20@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fkl/4HGiIV/ULNKFZJ/QLVzrtXg=
+			</data>
+			<key>hash2</key>
+			<data>
+			cFzuvim+4GGd/cEUf6neLUOwLAdgwB3SSDZPTEzAGiE=
+			</data>
+		</dict>
+		<key>AppIcon20x20~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mhqhw1Ldvu4h2K4myqeV2Q3vlYw=
+			</data>
+			<key>hash2</key>
+			<data>
+			l4bbp4joGYcv0kwZW17LUlppE+ae7bbOkZUoHVqmROk=
+			</data>
+		</dict>
+		<key>AppIcon29x29.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IQIFrFtGvCzM762JfW3VoFn0fxs=
+			</data>
+			<key>hash2</key>
+			<data>
+			mTvThJ0ovLqCN/0OI/UNnQMediU5VvKUHSMKnMXDbdk=
+			</data>
+		</dict>
+		<key>AppIcon29x29@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tdz6/toMPa6Z+pIaojzt2RYqIqM=
+			</data>
+			<key>hash2</key>
+			<data>
+			ikBtgBpIfjm4DtbK7+sE3ECj3WXxm0YkvsiHiOg6/0Y=
+			</data>
+		</dict>
+		<key>AppIcon29x29@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tdz6/toMPa6Z+pIaojzt2RYqIqM=
+			</data>
+			<key>hash2</key>
+			<data>
+			ikBtgBpIfjm4DtbK7+sE3ECj3WXxm0YkvsiHiOg6/0Y=
+			</data>
+		</dict>
+		<key>AppIcon29x29@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RZBwmk7aG+Ks2pVRqYBuZia4JDs=
+			</data>
+			<key>hash2</key>
+			<data>
+			rnwwKLemWzprVBkcoz2gA+zPQ8UhGSKQhfijW8zsEGI=
+			</data>
+		</dict>
+		<key>AppIcon29x29~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IQIFrFtGvCzM762JfW3VoFn0fxs=
+			</data>
+			<key>hash2</key>
+			<data>
+			mTvThJ0ovLqCN/0OI/UNnQMediU5VvKUHSMKnMXDbdk=
+			</data>
+		</dict>
+		<key>AppIcon40x40@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bfqr09kXFSiOqEDEI+oFZT4/z7I=
+			</data>
+			<key>hash2</key>
+			<data>
+			Wc/a+q7Uo5q49w76rFxmbVMv+xuZ2Au9htYZO5BPf8o=
+			</data>
+		</dict>
+		<key>AppIcon40x40@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bfqr09kXFSiOqEDEI+oFZT4/z7I=
+			</data>
+			<key>hash2</key>
+			<data>
+			Wc/a+q7Uo5q49w76rFxmbVMv+xuZ2Au9htYZO5BPf8o=
+			</data>
+		</dict>
+		<key>AppIcon40x40@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nf5JY6gwvIIP33YMbAZpnS4+7FA=
+			</data>
+			<key>hash2</key>
+			<data>
+			/QjjQCIT7tkc9W4RifWE6tw9AmV0YAuVpIaP9y8OT1k=
+			</data>
+		</dict>
+		<key>AppIcon40x40~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zTI6jgOJudgVp/8GXicTaPOqHuI=
+			</data>
+			<key>hash2</key>
+			<data>
+			OQD2sIkam36Eg3Uc5yn7Tc5U7mACfGZXNi/Y4MSGl5c=
+			</data>
+		</dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nf5JY6gwvIIP33YMbAZpnS4+7FA=
+			</data>
+			<key>hash2</key>
+			<data>
+			/QjjQCIT7tkc9W4RifWE6tw9AmV0YAuVpIaP9y8OT1k=
+			</data>
+		</dict>
+		<key>AppIcon60x60@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eU2G3QFrvxznATmscqFZBJPzN7k=
+			</data>
+			<key>hash2</key>
+			<data>
+			+jDE84X/74JMsLRD1lCqjBuY5Z1D8zeyQjwFnh+C18M=
+			</data>
+		</dict>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7KCpFNCYxw9gP/uSVV70t54vhDQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			vz7TxusjiSeV2Vp+69xoaHBDxyZ79NK442ZsbPe/BuY=
+			</data>
+		</dict>
+		<key>AppIcon76x76~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ntiEOFwq91sc9DqOAky5kyrpsRo=
+			</data>
+			<key>hash2</key>
+			<data>
+			MD+alofT0KOFzSxV9fHZImwrmiZOD7DIFGhNn01jEAc=
+			</data>
+		</dict>
+		<key>AppIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qgH8qXUgtW4PekX2hdM/i/T3XEs=
+			</data>
+			<key>hash2</key>
+			<data>
+			KWiFrRs1Q7vTiUTCkmz+lPhQE75a7YDMqPRxNaMNM+4=
+			</data>
+		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Kryqcno+idVn6z7NGN+ydUFmt24=
+			</data>
+			<key>hash2</key>
+			<data>
+			thtYBxuUA5ld++L9x1kmJRyHETjSBSVvQW+cvpXgoyM=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9BAEIL58OyTY1A+EDny2vW6Z+kc=
+			YMTClyWj1VrUN7fU2WSr0lgj7e8=
 			</data>
 			<key>hash2</key>
 			<data>
-			TpQ+BWNn03JQZDFSWuDL7hIySHbN8/kdXZnFpOAFmFM=
+			QI2AFLJSzu//sIJDecmVsyUH6ONctm9jCDwbPPWyLVA=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m1fzfzifb9gz4lxB5fmmjhNjwNc=
+			s5I3UpcyhcBEb8xv8/uyNUZKx1Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ue6gid/BULd4G2JEOcU1fX1V4m6ixhYoSFrjWLWBPjc=
+			L/nKbAd1rj/UjHhs8ArmY+gt72fGpC+9m+bDhhCb63k=
+			</data>
+		</dict>
+		<key>PlugIns/OneSignalNotificationServiceExtension.appex/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kw5NGfAX9HULhuNlztdABb1VOEc=
+			</data>
+			<key>hash2</key>
+			<data>
+			e8h0K+ic09bNWS8Ehs6iUGq9nMkn18Lv/9sxAPTk9ag=
+			</data>
+		</dict>
+		<key>PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JesvVZ/xDAKj0bsfHXZStI02Q5E=
+			</data>
+			<key>hash2</key>
+			<data>
+			tPqDubf3ce6NrecKfVkoru8bSMsVg9Y0otmhy60tWLQ=
+			</data>
+		</dict>
+		<key>PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9U6AfawxDsgDXMOGoeWWFSWg7vw=
+			</data>
+			<key>hash2</key>
+			<data>
+			VZR1l1v7pXPW+mQDr994EZYudvfuQytUhQvdySLnHdw=
 			</data>
 		</dict>
 	</dict>

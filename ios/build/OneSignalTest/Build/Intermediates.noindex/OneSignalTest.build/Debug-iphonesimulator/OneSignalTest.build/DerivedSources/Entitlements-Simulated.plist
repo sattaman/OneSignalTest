@@ -3,10 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>92M87LS3AD.org.reactjs.native.example.OneSignalTest</string>
-	<key>keychain-access-groups</key>
-	<array>
-		<string>92M87LS3AD.org.reactjs.native.example.OneSignalTest</string>
-	</array>
+	<string>92M87LS3AD.com.cobracode.icis-push-test</string>
+	<key>aps-environment</key>
+	<string>development</string>
 </dict>
 </plist>
